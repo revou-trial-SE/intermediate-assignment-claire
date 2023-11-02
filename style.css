@@ -1,0 +1,18 @@
+.jumbotron {
+	padding: 2em 1rem;
+	background-color: rgb(255, 250, 230);
+	margin-top: 20px;
+}
+
+.button-lm{
+  font-family: arial;
+  font-size: 25px;
+  color: white;
+  background: rgb(245, 192, 0);
+  padding: 10px;
+  border-radius: 1rem;
+  text-decoration: none;
+  text-decoration color:none ;
+}
+
+
